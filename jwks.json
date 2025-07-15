@@ -1,0 +1,13 @@
+{
+  "keys": [
+    {
+      "alg": "ES384",
+      "kty": "EC",
+      "crv": "P-384",
+      "x": "c7pM6DUFi_z3-znmQ6TfzlTBT1LfSnZe6TXm7UZSKoBICW5DULGB6_c9-AJ5aXBX",
+      "y": "s6kMOgYRAFJZ8WlMczxnlF-8f1QBverhTlYFhFpP-uUnEHKhkdDpj0JQ8DLSNlwN",
+      "kid": "ecw-paratus-health-001",
+      "use": "sig"
+    }
+  ]
+}

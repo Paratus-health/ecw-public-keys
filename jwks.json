@@ -4,6 +4,10 @@
       "kty": "RSA",
       "alg": "RS384",
       "use": "sig",
+      "key_ops": [
+        "verify"
+      ],
+      "ext": true,
       "kid": "ecw-paratus-health-002",
       "n": "t9xjEQmNp8AH3yV1zLcx-UJ8bC_2mM6w17Kbc8E54aJ8BdQhyiW1YBUSr7CzgFvoulcYyXNAnxAbo84VB6lHtVuuPAfLd5RFjqB98ehCf38tOW2GPbCwTUO75deNYOecuAVAS7y4eWyisC1MAyCXAIbRpXCH6EFDFyG6ZpYty1aFmenBkI646RYG7tKIGgK4yyUNGxWdf6CqT8oVuCg7FM17pG1yQkwRhHO8n79XYa2gjal6jUigTIJiVTpHZ2HxfuaJ9lQRDD-TGA9K_L-MrH_IYjd8h2kvpcGQiyxPLo6IqCnDaTXB9diJFYhHg_3PqpRRGkTuMKgtHtl_u68yAQ",
       "e": "AQAB"
